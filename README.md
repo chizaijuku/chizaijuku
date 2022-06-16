@@ -1,2 +1,3 @@
 # chizaijuku
-Company Information
+
+会社概要
