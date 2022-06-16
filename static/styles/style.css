@@ -79,3 +79,11 @@ footer {
   text-align: center;
   margin: 3rem auto;
 }
+
+@media screen and (max-width: 640px) {
+  table th,
+  table td {
+    display: block;
+    width: 100%;
+  }
+}
