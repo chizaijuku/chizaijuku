@@ -17,7 +17,8 @@
 body {
   font-family: 'Noto Sans JP', -apple-system, 'Hiragino Kaku Gothic ProN', BlinkMacSystemFont, 'Hiragino Sans', Meiryo, sans-serif;
   background-color: whitesmoke;
-  margin: 2rem;
+  max-width: 1000px;
+  margin: 0 auto;
 }
 
 h1 {
@@ -59,9 +60,10 @@ table tr:nth-child(odd){
 
 .map {
   position: relative;
-  width: 100%;
+  width: 80%;
   height: 0;
-  padding-top: 75%;
+  padding-top: 50%;
+  margin: 0 auto;
 }
 
 .map iframe {
